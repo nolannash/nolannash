@@ -55,7 +55,39 @@
 <div align="center">
 
 ## 🏆 Professional Certifications
-</div> <table align="center" style="width:80%; margin:auto; text-align:left; border-collapse:collapse;"> <thead> <tr> <th align="center" style="text-align:center;">Completed Certifications</th> <th align="center" style="text-align:center;">Certifications In Progress</th> </tr> </thead> <tbody> <tr> <td>- **W3Schools HTML Professional Tier Certification**</td> <td>- **AWS Certified Cloud Practitioner**</td> </tr> <tr> <td>- **W3Schools Java Professional Tier Certification**</td> <td>- **CompTIA Network+**</td> </tr> <tr> <td>- **Software Engineering Certification - Flatiron School**</td> <td>- **CompTIA Security+**</td> </tr> <tr> <td>- **Microsoft 102 Certification**</td> <td>- **Data Structures and Algorithms (DSA) Certification**</td> </tr> <tr> <td></td> <td>- **Oracle Cloud Infrastructure (OCI) AI Certification**</td> </tr> </tbody> </table>
+</div> 
+<table align="center" style="width:80%; margin:auto; text-align:left; border-collapse:collapse;"> 
+  <thead> 
+    <tr> 
+      <th align="center" style="text-align:center;">Completed Certifications</th> 
+      <th align="center" style="text-align:center;">Certifications In Progress</th> 
+    </tr> 
+  </thead> 
+  <tbody> 
+    <tr> 
+      <td>W3Schools HTML Professional Tier Certification</td> 
+      <td>AWS Certified Solutions Engineer</td> 
+    </tr> 
+    <tr>
+      <td>W3Schools Java Professional Tier Certification</td> 
+      <td>CompTIA Network+</td> 
+    </tr> 
+    <tr> 
+      <td>Software Engineering Certification - Flatiron School</td> 
+      <td>CompTIA Security+</td> 
+    </tr> 
+      <td>CompTIA Security+**</td> 
+    </tr> 
+    <tr> 
+      <td>Microsoft 102 Certification</td> 
+      <td>Data Structures and Algorithms (DSA) Certification</td> 
+    </tr> 
+    <tr> 
+      <td>AWS Cloud Practicioner - W3Schools</td> 
+      <td> Oracle Cloud Infrastructure (OCI) AI Certification</td> 
+    </tr> 
+  </tbody> 
+</table>
 <div align="center">
 
 ## 💻 Technical Skills
