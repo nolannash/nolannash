@@ -39,6 +39,7 @@
 - Managing network infrastructure and security protocols  
 - Designing and deploying web-based monitoring and management tools  
 
+---
 <div align="center">
 
 ### Founder & Principal Consultant  [Nash Consulting LLC](https://nolannashdev.org)  
@@ -58,11 +59,7 @@
 
 </div>
 
-<div align="center">
-
 ### Completed Certifications
-
-</div>
 
 - **W3Schools HTML Professional Tier Certification**  
 - **W3Schools Java Professional Tier Certification**  
