@@ -75,9 +75,6 @@
     <tr> 
       <td>Software Engineering Certification - Flatiron School</td> 
       <td>CompTIA Security+</td> 
-    </tr> 
-      <td>CompTIA Security+**</td> 
-    </tr> 
     <tr> 
       <td>Microsoft 102 Certification</td> 
       <td>Data Structures and Algorithms (DSA) Certification</td> 
