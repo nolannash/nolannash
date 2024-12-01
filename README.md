@@ -24,7 +24,7 @@
 
 ## 💼 Professional Experience
 
-### IT Infrastructure Specialist | [Current/Most Recent Company]
+### IT Infrastructure Specialist | [(https://techsperience.org)]
 **[Start Date - Present]**
 - Implemented cloud migration strategies across hybrid environments
 - Developed and maintained PowerShell and Bash automation scripts to streamline IT operations
