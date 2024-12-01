@@ -8,9 +8,9 @@
 
 </div>
 
-## 📊 GitHub Profile Insights
-
 <div align="center">
+
+## 📊 GitHub Profile Insights
 
 ![Nolan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nolannash&theme=radical&column=4&margin-w=15&margin-h=15)
 
@@ -20,25 +20,33 @@
 
 </div>
 
-## 💼 Professional Experience
-
 <div align="center">
 
+## 💼 Professional Experience
+
 ### IT Automation Engineer & Technician | [Techsperience](https://techsperience.org)
+
+</div>
+
 **January 2024 - Present**
 - Implementing cloud migration strategies across hybrid environments
 - Developing and maintaining PowerShell and Bash automation scripts to streamline IT operations
 - Managing network infrastructure and security protocols
 - Designing and deploying web-based monitoring and management tools
 
-### Founder & Principal Consultant | Nash Consulting LLC
+<div align="center">
+
+### Founder & Principal Consultant | [Nash Consulting LLC](https://nolannashdev.org)
+
+</div>
+
 **2021 - December 2023**
 - Provided bespoke web development services to artists and small businesses
 - Developed custom web solutions tailored to client needs
 - Managed end-to-end web development projects
 - Maintained strong client relationships and delivered high-quality digital solutions
 
-</div>
+
 
 ## 🏆 Professional Certifications
 
