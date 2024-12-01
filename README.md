@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## 📊 GitHub Profile Insights
+# 📊 GitHub Profile Insights
 
 ![Nolan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nolannash&theme=radical&column=4&margin-w=15&margin-h=15)
 
@@ -23,13 +23,13 @@
 
 <div align="center">
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
 </div>
 
 <div align="center">
 
-### IT Automation Engineer & Technician  [Techsperience](https://techsperience.org)  
+## IT Automation Engineer & Technician  [Techsperience](https://techsperience.org)  
 **January 2024 - Present**
 
 </div>
@@ -42,7 +42,7 @@
 ---
 <div align="center">
 
-### Founder & Principal Consultant  [Nash Consulting LLC](https://nolannashdev.org)  
+## Founder & Principal Consultant  [Nash Consulting LLC](https://nolannashdev.org)  
 **2023 - Present**
 
 </div>
@@ -52,32 +52,10 @@
 - Managed end-to-end web development projects  
 - Maintained strong client relationships and delivered high-quality digital solutions  
 
-
 <div align="center">
 
 ## 🏆 Professional Certifications
-
-</div>
-
-### Completed Certifications
-
-- **W3Schools HTML Professional Tier Certification**  
-- **W3Schools Java Professional Tier Certification**  
-- **Software Engineering Certification - Flatiron School**  
-- **Microsoft 102 Certification**
-
-<div align="center">
-
-### Certifications In Progress
-
-</div>
-
-- **AWS Certified Cloud Practitioner**  
-- **CompTIA Network+**  
-- **CompTIA Security+**  
-- **Data Structures and Algorithms (DSA) Certification**  
-- **Oracle Cloud Infrastructure (OCI) AI Certification**
-
+</div> <table align="center" style="width:80%; margin: auto; text-align: left; border-collapse: collapse;"> <tr> <th align="center" style="width:50%; text-align:center;">Completed Certifications</th> <th align="center" style="width:50%; text-align:center;">Certifications In Progress</th> </tr> <tr> <td> - **W3Schools HTML Professional Tier Certification** - **W3Schools Java Professional Tier Certification** - **Software Engineering Certification - Flatiron School** - **Microsoft 102 Certification** </td> <td> - **AWS Certified Cloud Practitioner** - **CompTIA Network+** - **CompTIA Security+** - **Data Structures and Algorithms (DSA) Certification** - **Oracle Cloud Infrastructure (OCI) AI Certification** </td> </tr> </table>
 
 <div align="center">
 
