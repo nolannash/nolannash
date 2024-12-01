@@ -129,7 +129,7 @@
 
 <div align="center">
 
-#### Networking Tools  
+### Networking Tools  
 
 </div>
 
@@ -143,7 +143,6 @@
 </div>
 
 ### API and Web Development Explorations
-
 
 - **Spotify API Integration**: Music data analysis and playlist management tools  
 - **WordPress Development**: Custom themes, plugin creation, and site optimization  
