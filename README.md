@@ -30,7 +30,7 @@
 <div align="center">
 
 ## IT Automation Engineer & Technician  [Techsperience](https://techsperience.org)  
-**January 2024 - Present**
+**January 4024 - Present**
 
 </div>
 
@@ -39,7 +39,7 @@
 - Managing network infrastructure and security protocols  
 - Designing and deploying web-based monitoring and management tools  
 
----
+<div style="margin-bottom:40px;"></div>
 <div align="center">
 
 ## Founder & Principal Consultant  [Nash Consulting LLC](https://nolannashdev.org)  
@@ -52,15 +52,22 @@
 - Managed end-to-end web development projects  
 - Maintained strong client relationships and delivered high-quality digital solutions  
 
-<div align="center">
+<div style="margin-bottom:20px;"></div>
+<div align="center" >
 
-## 🏆 Professional Certifications
+# 🏆 Professional Certifications
+
 </div> 
-<table align="center" style="width:80%; margin:auto; text-align:left; border-collapse:collapse;"> 
+
+<table align="center" style="width:auto; min-width:60%; margin:auto; text-align:center; border-collapse:collapse; margin-bottom:40px;"> 
   <thead> 
     <tr> 
-      <th align="center" style="text-align:center;">Completed Certifications</th> 
-      <th align="center" style="text-align:center;">Certifications In Progress</th> 
+      <th align="center" style="text-align:center;">
+        Completed Certifications
+      </th> 
+      <th align="center" style="text-align:center;" stle="border-left:1px solid white;">
+        Certifications In Progress
+      </th> 
     </tr> 
   </thead> 
   <tbody> 
@@ -101,28 +108,60 @@
 
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)  
 
+<div style="margin-bottom:40px;"></div>
+
 # 🔧 My Work, Services, Offerings and Capabilities
 
-### Profiles and Configurations  
+### Profiles, Themes and Configurations  
 
 </div>
 
-#### Linux Profile Scripts  
+<table align="center" style="width:auto; min-width:60%; margin:auto; text-align:center; border-collapse:collapse;"> 
+  <thead>
+    <tr>
+      <th align="center" style="text-align:center;">Profiles and Configs</th>
+      <th align="center" style="text-align:center;">Themes and Customizations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Custom aliases: git, bash, nvim, pwsh and zsh </td>
+      <td>Customized editor configurations</td>
+    </tr>
+    <tr>
+      <td>Custom profile configurations</td>
+      <td>Custom themes and recommended extensions</td>
+    </tr>
+    <!-- <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr> -->
+  </tbody>
+</table>
 
-- Custom bash and zsh configurations  
-- Personalized shell aliases and functions  
 
-#### VS Code Settings, Shortcuts and Themes
-
-- Customized editor configurations  
-- Preferred extensions and themes  
 
 <div align="center">
 
 ### Cloud Development and Automation  
 
 </div>
-
 
 - Comprehensive PowerShell, Bash, and Python scripts for cloud resource management  
 - Automated deployment and configuration tools for multiple platforms  
@@ -159,3 +198,5 @@
 *Continuously innovating at the intersection of technology and creativity* 🚀
 
 </div>
+
+---
