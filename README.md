@@ -103,45 +103,42 @@
 
 # 🔧 My Work, Services, Offerings and Capabilities
 
-## Profiles and Configurations  
+### Profiles and Configurations  
 
 </div>
 
-### Linux Profile Scripts  
+#### Linux Profile Scripts  
 
 - Custom bash and zsh configurations  
 - Personalized shell aliases and functions  
 
-### VS Code Settings, Shortcuts and Themes
+#### VS Code Settings, Shortcuts and Themes
 
 - Customized editor configurations  
 - Preferred extensions and themes  
 
 <div align="center">
 
-## Cloud Development and Automation  
+### Cloud Development and Automation  
 
 </div>
 
-### Cloud Automation Toolkit
 
 - Comprehensive PowerShell, Bash, and Python scripts for cloud resource management  
 - Automated deployment and configuration tools for multiple platforms  
 
 <div align="center">
 
-## Networking Tools  
+#### Networking Tools  
 
 </div>
-
-### Network Diagnostic Suite  
 
 - Custom scripts for network performance monitoring and troubleshooting  
 - Streamlined IT infrastructure analysis tools  
 
 <div align="center">
 
-## Web Development Projects  
+### Web Development Work  
 
 </div>
 
