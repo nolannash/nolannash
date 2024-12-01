@@ -20,24 +20,29 @@
 
 </div>
 
-
-
 ## 💼 Professional Experience
 
-### IT Infrastructure Specialist | [(https://techsperience.org)]
-**[Start Date - Present]**
-- Implemented cloud migration strategies across hybrid environments
-- Developed and maintained PowerShell and Bash automation scripts to streamline IT operations
-- Managed network infrastructure and security protocols
-- Designed and deployed web-based monitoring and management tools
+<div align="center">
 
-### Systems Administrator | [Previous Company]
-**[Start Date - End Date]**
-- Supported enterprise-level network and server infrastructure
-- Created custom scripting solutions to improve operational efficiency
-- Managed cloud resources and implemented cost-optimization strategies
+### IT Automation Engineer & Technician | [Techsperience](https://techsperience.org)
+**January 2024 - Present**
+- Implementing cloud migration strategies across hybrid environments
+- Developing and maintaining PowerShell and Bash automation scripts to streamline IT operations
+- Managing network infrastructure and security protocols
+- Designing and deploying web-based monitoring and management tools
+
+### Founder & Principal Consultant | Nash Consulting LLC
+**2021 - December 2023**
+- Provided bespoke web development services to artists and small businesses
+- Developed custom web solutions tailored to client needs
+- Managed end-to-end web development projects
+- Maintained strong client relationships and delivered high-quality digital solutions
+
+</div>
 
 ## 🏆 Professional Certifications
+
+<div align="center">
 
 ### Completed Certifications
 - **W3Schools HTML Professional Tier Certification**
@@ -52,7 +57,11 @@
 - **Data Structures and Algorithms (DSA) Certification**
 - **Oracle Cloud Infrastructure (OCI) AI Certification**
 
+</div>
+
 ## 💻 Technical Skills
+
+<div align="center">
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -75,7 +84,12 @@
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+</div>
+
 ## 🛠️ Custom Configs and Profiles
+
+<div align="center">
+
 A curated collection of my personal development and system configuration tools:
 - **Linux Profile Scripts**
   - Custom bash and zsh configurations
@@ -87,7 +101,11 @@ A curated collection of my personal development and system configuration tools:
   - Dotfile management scripts
   - Cross-platform configuration management
 
+</div>
+
 ## 🔧 Featured Projects
+
+<div align="center">
 
 ### Cloud Automation Toolkit
 - Comprehensive set of PowerShell, Bash, and Python scripts for cloud resource management
@@ -97,7 +115,11 @@ A curated collection of my personal development and system configuration tools:
 - Custom scripts for network performance monitoring and troubleshooting
 - Developed tools to streamline IT infrastructure analysis
 
+</div>
+
 ## 🌐 Other Works
+
+<div align="center">
 
 ### API and Web Development Explorations
 - **Spotify API Integration**
@@ -108,12 +130,6 @@ A curated collection of my personal development and system configuration tools:
   - Custom theme and plugin development
   - Website optimization and performance tuning
   - E-commerce and content management solutions
-
-## 🎵 Currently Exploring
-
-<div align="center">
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USERNAME&count=3&width=600)](https://open.spotify.com/user/SPOTIFY_USERNAME)
 
 </div>
 
