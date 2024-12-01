@@ -98,7 +98,7 @@
 
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)  
 
-## 🔧 My Work
+## 🔧 My Work, Services, Offerings and Capabilities
 
 ### Profiles and Configurations  
 
@@ -106,24 +106,24 @@
 
 </div>
 
-  - Custom bash and zsh configurations  
-  - Personalized shell aliases and functions  
+- Custom bash and zsh configurations  
+- Personalized shell aliases and functions  
 
 <div align="center">
 
-#### VS Code Settings**
+#### VS Code Settings
 
 </div>
 
-  - Customized editor configurations  
-  - Preferred extensions and themes  
+- Customized editor configurations  
+- Preferred extensions and themes  
 
 
 <div align="center">
 
 ### Cloud Development and Automation  
 
-#### Cloud Automation Toolkit**  
+#### Cloud Automation Toolkit
 
 </div>
 
@@ -134,7 +134,7 @@
 
 ### Networking Tools  
 
-#### Network Diagnostic Suite**  
+#### Network Diagnostic Suite  
 
 </div>
 - Custom scripts for network performance monitoring and troubleshooting  
@@ -144,12 +144,12 @@
 
 ### Web Development Projects  
 
+#### API and Web Development Explorations
+
 </div>
 
-- **API and Web Development Explorations**  
-  - **Spotify API Integration**: Music data analysis and playlist management tools  
-  - **WordPress Development**: Custom themes, plugin creation, and site optimization  
-
+- **Spotify API Integration**: Music data analysis and playlist management tools  
+- **WordPress Development**: Custom themes, plugin creation, and site optimization  
 
 <div align="center">
 
