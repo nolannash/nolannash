@@ -4,12 +4,13 @@
 
 **Versatile Technology Professional**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=00A9F0&center=true&width=600&lines=Cloud+Architect;DevOps+Engineer;Web+Developer;Systems+Administrator;Automation+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A9F0&center=true&width=600&lines=Cloud+Developer;Network+Engineer;Web+Developer;Systems+Administrator;Automation+Specialist;IT+Technician)](https://git.io/typing-svg)
 
 </div>
+
 ## 📊 GitHub Profile Insights
 
-<div align="center">
+<div alignText="center">
 
 ![Nolan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nolannash&theme=radical&column=4&margin-w=15&margin-h=15)
 
@@ -19,6 +20,7 @@
 
 </div>
 
+<div align="center">
 ## 💼 Professional Experience
 
 ### IT Infrastructure Specialist | [Current/Most Recent Company]
@@ -131,4 +133,5 @@ A curated collection of my personal development and system configuration tools:
 
 *Continuously innovating at the intersection of technology and creativity* 🚀
 
+</div>
 </div>
