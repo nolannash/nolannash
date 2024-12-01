@@ -2,12 +2,11 @@
 
 # 👋 Hi there! I'm Nolan Nash
 
-**Versatile Technology Professional | Cloud & DevOps Enthusiast | Innovative Problem Solver**
+**Versatile Technology Professional**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F&center=true&width=800&lines=Cloud+Architecture+%7C+Scripting+%7C+Web+Development+%7C+IT+Infrastructure+%7C+Automation+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=00A9F0&center=true&width=600&lines=Cloud+Architect;DevOps+Engineer;Web+Developer;Systems+Administrator;Automation+Specialist)](https://git.io/typing-svg)
 
 </div>
-
 ## 📊 GitHub Profile Insights
 
 <div align="center">
