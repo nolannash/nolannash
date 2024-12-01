@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Profile Insights
 
-<div alignText="center">
+<div align="center">
 
 ![Nolan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nolannash&theme=radical&column=4&margin-w=15&margin-h=15)
 
@@ -20,7 +20,8 @@
 
 </div>
 
-<div align="center">
+
+
 ## 💼 Professional Experience
 
 ### IT Infrastructure Specialist | [Current/Most Recent Company]
@@ -133,5 +134,4 @@ A curated collection of my personal development and system configuration tools:
 
 *Continuously innovating at the intersection of technology and creativity* 🚀
 
-</div>
 </div>
