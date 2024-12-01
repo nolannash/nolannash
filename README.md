@@ -1,7 +1,3 @@
-Thank you for clarifying! I'll adjust the structure so that only section headers and non-bullet elements (like images, titles, and project descriptions) are centered, while bullet points remain left-aligned. Here’s the corrected version:
-
----
-
 <div align="center">
 
 # 👋 Hi there! I'm Nolan Nash
@@ -11,8 +7,6 @@ Thank you for clarifying! I'll adjust the structure so that only section headers
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A9F0&center=true&width=600&lines=Cloud+Developer;Network+Engineer;Web+Developer;Systems+Administrator;Automation+Specialist;IT+Technician)](https://git.io/typing-svg)
 
 </div>
-
----
 
 <div align="center">
 
@@ -26,7 +20,6 @@ Thank you for clarifying! I'll adjust the structure so that only section headers
 
 </div>
 
----
 
 <div align="center">
 
@@ -49,7 +42,7 @@ Thank you for clarifying! I'll adjust the structure so that only section headers
 <div align="center">
 
 ### Founder & Principal Consultant | [Nash Consulting LLC](https://nolannashdev.org)  
-**2021 - December 2023**
+**2023 - Present**
 
 </div>
 
@@ -58,7 +51,6 @@ Thank you for clarifying! I'll adjust the structure so that only section headers
 - Managed end-to-end web development projects  
 - Maintained strong client relationships and delivered high-quality digital solutions  
 
----
 
 <div align="center">
 
@@ -89,7 +81,6 @@ Thank you for clarifying! I'll adjust the structure so that only section headers
 - **Data Structures and Algorithms (DSA) Certification**  
 - **Oracle Cloud Infrastructure (OCI) AI Certification**
 
----
 
 <div align="center">
 
@@ -132,13 +123,13 @@ Thank you for clarifying! I'll adjust the structure so that only section headers
 
 ### Networking & IT
 
+
+
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)  
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 </div>
-
-- ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)  
-- ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)  
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
 
 <div align="center">
 
@@ -194,7 +185,6 @@ Thank you for clarifying! I'll adjust the structure so that only section headers
   - **Spotify API Integration**: Music data analysis and playlist management tools  
   - **WordPress Development**: Custom themes, plugin creation, and site optimization  
 
----
 
 <div align="center">
 
@@ -207,7 +197,6 @@ Thank you for clarifying! I'll adjust the structure so that only section headers
 
 </div>
 
----
 
 <div align="center">
 
