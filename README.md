@@ -102,39 +102,43 @@
 
 ### Profiles and Configurations  
 
+#### Linux Profile Scripts  
+
 </div>
 
-- **Linux Profile Scripts**  
   - Custom bash and zsh configurations  
   - Personalized shell aliases and functions  
 
-- **VS Code Settings**  
+<div align="center">
+
+#### VS Code Settings**
+
+</div>
+
   - Customized editor configurations  
   - Preferred extensions and themes  
 
-- **Development Environment Setup**  
-  - Dotfile management scripts  
-  - Cross-platform configuration management  
 
 <div align="center">
 
 ### Cloud Development and Automation  
 
+#### Cloud Automation Toolkit**  
+
 </div>
 
-- **Cloud Automation Toolkit**  
-  - Comprehensive PowerShell, Bash, and Python scripts for cloud resource management  
-  - Automated deployment and configuration tools for multiple platforms  
+- Comprehensive PowerShell, Bash, and Python scripts for cloud resource management  
+- Automated deployment and configuration tools for multiple platforms  
 
 <div align="center">
 
 ### Networking Tools  
 
-</div>
+#### Network Diagnostic Suite**  
 
-- **Network Diagnostic Suite**  
-  - Custom scripts for network performance monitoring and troubleshooting  
-  - Streamlined IT infrastructure analysis tools  
+</div>
+- Custom scripts for network performance monitoring and troubleshooting  
+- Streamlined IT infrastructure analysis tools  
 
 <div align="center">
 
@@ -156,10 +160,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nolannash&style=flat-square&color=blue)
 
-</div>
 
-
-<div align="center">
 
 *Continuously innovating at the intersection of technology and creativity* 🚀
 
