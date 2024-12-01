@@ -1,7 +1,24 @@
+<div align="center">
+
 # 👋 Hi there! I'm Nolan Nash
 
-## 🚀 About Me
-I'm a versatile technology professional with a passion for solving complex IT challenges through innovative scripting, cloud solutions, and development. My approach combines technical expertise across multiple domains to create efficient, scalable solutions.
+**Versatile Technology Professional | Cloud & DevOps Enthusiast | Innovative Problem Solver**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F&center=true&width=800&lines=Cloud+Architecture+%7C+Scripting+%7C+Web+Development+%7C+IT+Infrastructure+%7C+Automation+Specialist)](https://git.io/typing-svg)
+
+</div>
+
+## 📊 GitHub Profile Insights
+
+<div align="center">
+
+![Nolan's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nolannash&theme=radical&column=4&margin-w=15&margin-h=15)
+
+![Nolan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nolannash&theme=dark&background=000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nolannash&layout=compact&theme=vision-friendly-dark)
+
+</div>
 
 ## 💼 Professional Experience
 
@@ -47,6 +64,15 @@ I'm a versatile technology professional with a passion for solving complex IT ch
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
+### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Networking & IT
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ## 🛠️ Custom Configs and Profiles
 A curated collection of my personal development and system configuration tools:
 - **Linux Profile Scripts**
@@ -59,7 +85,7 @@ A curated collection of my personal development and system configuration tools:
   - Dotfile management scripts
   - Cross-platform configuration management
 
-## 🔧 Tools, Scripts and Diagnostics
+## 🔧 Featured Projects
 
 ### Cloud Automation Toolkit
 - Comprehensive set of PowerShell, Bash, and Python scripts for cloud resource management
@@ -81,13 +107,29 @@ A curated collection of my personal development and system configuration tools:
   - Website optimization and performance tuning
   - E-commerce and content management solutions
 
-## 📊 GitHub Stats
-![Nolan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nolannash&show_icons=true&theme=radical)
+## 🎵 Currently Exploring
+
+<div align="center">
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=SPOTIFY_USERNAME&count=3&width=600)](https://open.spotify.com/user/SPOTIFY_USERNAME)
+
+</div>
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nolan-nash/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nolan@nolannashdev.com)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nolan-nash/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nolan@nolannashdev.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nolannash&style=flat-square&color=blue)
+
+</div>
 
 ---
 
-*Continuously innovating and exploring the intersection of technology and efficiency* 🌐✨
+<div align="center">
+
+*Continuously innovating at the intersection of technology and creativity* 🚀
+
+</div>
